@@ -73,22 +73,72 @@ for (let i = 0; i < elementClass.length; i++) {
 console.log(elementClass[i].innerHTML);
 }
 
-8. what are data types in JS?- A data types determines the type of variables 
+8. what are data types in JS?- A data types determines the type of variables
 
-   primitive and non-primitive 
+   primitive and non-primitive
 
 9. what are operators? what are the types of operators?
 
-   operators are symboles or keywords used to perform operations on operands 
+   operators are symboles or keywords used to perform operations on operands
+
    1. Arithmetic,
    2. Assignment
    3. Comparison,
    4. Logical,
-   5. String 
+   5. String
 
-10. what are types of conditions statements in JS? 
+10. what are types of conditions statements in JS?
 
-   that gives result as true or false 
-   1. if/else
-   2. ternary
-   3. switch
+that gives result as true or false
+
+1.  if/else
+2.  ternary
+3.  switch
+
+4.  what are loops in JS?
+
+    loop is a programming way to run a piece of code repeatedly until a certain condition met
+    types- for, while, do-while, for-of, for-in
+
+5.  what are functions in JS? what are theb types of function?
+
+    function is a reusable bloack of code that performs a specific task
+
+    1. Named function
+    2. Anonymous function
+    3. Function Expression
+    4. Arrow function
+    5. IIFE
+    6. Callback function
+    7. Higer order function
+
+6.  What are Arrow functions in JS? what is its usees?
+
+    Arrow function , also known as fat arrow functions, is simpler and shorter way for defining function in javascript
+
+7.  What are arrays in JS? how to get, add and remove elements from array?
+
+    Array is a data type that allow you to store multiple values in a single variable.
+
+8.  What are objects in JS?
+
+    object is a data type tat allow you to store key-value pairs
+
+9.  what is scope in JS?
+
+    accessibility of particular functions and variable or scope determines where variables are defined and where they can be accessed.
+
+10. What is Hoisting in JS?
+
+Hoisting is a javascript behaviour where functions and variables declarations are moved to the top of their respective scopes during their compilation time
+
+18. What are Error Hanldling in JS?
+
+Error Hanldling is the process of managing the errors by using try and catch blocks
+
+19. what is Asynchronous Programming in JS? what is the its use?
+
+    Asynchronous Programming allows multiple task or operations to be initiated and executed concurrently
+    Asynchronous operations do not block the execution of the code
+
+20.
